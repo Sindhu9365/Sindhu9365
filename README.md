@@ -1,84 +1,81 @@
-🛡 Sindhu R
-DFIR | Threat Detection | Blue Team Engineering
+<h1 align="center">🛡️ Sindhu R</h1>
+<h3 align="center">Digital Forensics | DFIR | Blue Team | Threat Detection</h3> <p align="center"> <a href="https://github.com/Sindhu9365"> <img src="https://img.shields.io/github/followers/Sindhu9365?label=Followers&style=for-the-badge" /> </a> <img src="https://img.shields.io/badge/Focus-DFIR-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Blue%20Team-SOC-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge" /> </p>
+👩‍💻 About Me
 
-I don’t just study cybersecurity — I investigate, detect, and reconstruct attacks.
-
-🎓 Master’s in Digital Forensics & Information Security
+🎓 Master's in Digital Forensics & Information Security
 📍 Bengaluru, India
-🔗 LinkedIn: https://www.linkedin.com/in/sindhu-ramesh-4a174220a/
+🔎 Passionate about artifact-driven investigation & threat reconstruction
+
+I specialize in:
+
+🧠 Memory & Disk Forensics
+
+📊 Log & Network Traffic Analysis
+
+🎯 MITRE ATT&CK Mapping
+
+🔍 Incident Response & IOC Enrichment
+
+🛡 Blue Team Detection Workflows
+
+I don’t just study cybersecurity — I investigate and reconstruct attacks.
+
+🛠️ Tech Stack
+🔍 Forensics Tools
 
 
-🧠 What I Actually Do
 
-I specialize in breaking down digital incidents into evidence-backed conclusions.
 
-Reconstruct attacker activity from disk & memory artifacts
 
-Map threats using MITRE ATT&CK
 
-Perform network traffic analysis to detect intrusions
 
-Conduct structured forensic documentation (chain of custody, timeline building)
 
-Build small-scale detection & monitoring systems
 
-Cybersecurity to me is not theory — it’s artifact-driven investigation.
 
-🔎 Core Technical Strength
-Digital Forensics
+🌐 Network & Security
 
-FTK | Autopsy | Volatility | EXIFTool | HashCalc
-Disk Imaging (Bit-by-Bit)
-Memory Analysis
-Windows Registry & Event Log Analysis
-Browser & Metadata Forensics
-Evidence Preservation & Timeline Reconstruction
 
-Blue Team & Detection
 
-Incident Response
-Alert Triage
-Log Analysis
-IOC Enrichment
-Threat Hunting
-Kill Chain Analysis
-MITRE ATT&CK Mapping
 
-Network Security
 
-Wireshark | tcpdump
-Nmap Recon
-Protocol Analysis (TCP/IP, DNS, HTTP/S, SMTP)
-Basic exploitation concepts (Burp, Metasploit)
-Firewall & Network Hardening Fundamentals
 
-Automation
 
-Python scripting for:
 
-Log parsing
+💻 Programming
 
-Artifact extraction
 
-Simple detection workflows
 
-🧪 Selected Work
+
+
+
+🚀 Featured Projects
+
 🔐 Raspberry Pi OTP Authentication System
-
-Built a hardware-backed authentication mechanism to strengthen access control.
+Hardware-backed secure login mechanism using OTP verification.
 
 📡 MQTT Security Monitoring Dashboard
+IoT message monitoring dashboard to detect abnormal communication patterns.
 
-Developed a monitoring interface to track IoT message traffic and detect anomalies.
+🧠 ML-Based Intrusion Detection System
+Built an anomaly detection model for identifying malicious traffic.
 
-🖥 Disk & Memory Forensic Analysis
+🖥 Disk & Memory Forensic Investigations
+Performed bit-by-bit imaging, registry analysis, event log correlation, and timeline reconstruction using forensic tools.
 
-Performed full disk imaging, memory dumps, and structured analysis using industry tools. Produced investigation-style reports aligned with forensic standards.
+📶 BLE RSSI Security Analysis (Research)
+Analyzing signal anomalies to detect spoofing or unauthorized proximity attacks.
 
-📶 BLE RSSI Anomaly Detection (Research Phase)
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sindhu9365&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sindhu9365&theme=radical" width="48%" /> </p>
+🎯 Current Focus
 
-Working on identifying signal manipulation or proximity spoofing using RSSI pattern analysis.
+Advanced Memory Forensics
 
-⌨ Smart Keyboard Research (Capacitive Touch)
+Detection Engineering
 
-Developing a customizable hardware-security-focused keyboard system under academic research.
+IoT Threat Modeling
+
+Cloud Security Foundations
+
+📫 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/sindhu-ramesh-4a174220a/"> <img src="https://img.shields.io/badge/LinkedIn-Sindhu%20R-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
